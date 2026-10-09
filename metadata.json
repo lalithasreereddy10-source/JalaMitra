@@ -1,0 +1,6 @@
+{
+  "name": "AquaQ — Smart Irrigation and Water Resource Allocation Optimizer",
+  "description": "Smarter Water Allocation. Fairer Irrigation. A quantum computing and mathematical optimisation platform for Krishna-Godavari command areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
